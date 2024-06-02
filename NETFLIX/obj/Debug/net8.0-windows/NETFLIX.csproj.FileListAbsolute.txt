@@ -1,0 +1,89 @@
+C:\Users\Admin\Documents\C#\NETFLIX\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C#\NETFLIX\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Admin\Documents\C#\NETFLIX\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Admin\Documents\C#\NETFLIX\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.csproj.ResolveComReference.cache
+C:\Users\Admin\Documents\C#\NETFLIX\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.dll
+C:\Users\Admin\Documents\C#\NETFLIX\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\refint\NETFLIX.dll
+C:\Users\Admin\Documents\C#\NETFLIX\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.pdb
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\NETFLIX.exe
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\NETFLIX.deps.json
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\NETFLIX.runtimeconfig.json
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\NETFLIX.dll
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\NETFLIX.pdb
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.csproj.ResolveComReference.cache
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.Admin_Panel.resources
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.RegistrationForm.resources
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.Home.resources
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.LogIn.resources
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.PlayMovies.resources
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.PremiumSignUp.resources
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.Properties.Resources.resources
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.AssemblyInfo.cs
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.csproj.Up2Date
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.dll
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\refint\NETFLIX.dll
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.pdb
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.genruntimeconfig.cache
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\ref\NETFLIX.dll
+C:\Users\Dell\Desktop\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.AdminPanelPremium.resources
+D:\My Works\C#\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\NETFLIX.exe
+D:\My Works\C#\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\NETFLIX.deps.json
+D:\My Works\C#\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\NETFLIX.runtimeconfig.json
+D:\My Works\C#\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\NETFLIX.dll
+D:\My Works\C#\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\NETFLIX.pdb
+D:\My Works\C#\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\My Works\C#\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\My Works\C#\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\My Works\C#\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\My Works\C#\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\My Works\C#\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\My Works\C#\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+D:\My Works\C#\NETFLIX\NETFLIX\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.csproj.AssemblyReference.cache
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.csproj.ResolveComReference.cache
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.Admin_Panel.resources
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.RegistrationForm.resources
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.Home.resources
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.LogIn.resources
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.PlayMovies.resources
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.AdminPanelPremium.resources
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.PremiumSignUp.resources
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.PremiumUsersHome.resources
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.Properties.Resources.resources
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.csproj.GenerateResource.cache
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.AssemblyInfoInputs.cache
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.AssemblyInfo.cs
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.csproj.CoreCompileInputs.cache
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.csproj.Up2Date
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.dll
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\refint\NETFLIX.dll
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.pdb
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.genruntimeconfig.cache
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\ref\NETFLIX.dll
+C:\Users\Admin\Desktop\NETFLIX\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\NETFLIX\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\NETFLIX\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\NETFLIX\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\NETFLIX\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.dll
+C:\Users\Admin\Desktop\NETFLIX\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\refint\NETFLIX.dll
+C:\Users\Admin\Desktop\NETFLIX\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.pdb
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.PlayMoviesForPremium.resources
+D:\My Works\C#\NETFLIX\NETFLIX\obj\Debug\net8.0-windows\NETFLIX.WelcomePage.resources

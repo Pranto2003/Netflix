@@ -1,0 +1,506 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Works\\C#\\NETFLIX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\premiumsignup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\premiumsignup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\premiumusershome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\premiumusershome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\premiumsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\premiumsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\premiumsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\premiumsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\premiumhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\premiumhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\admin panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\admin panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\admin panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\admin panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|d:\\my works\\c#\\netflix\\netflix\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\premiumhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\premiumhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\premiumhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\premiumhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\playmovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\playmovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\admin panel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\admin panel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\welcomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\welcomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\welcomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\welcomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\premiumusershome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\premiumusershome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\playmoviesforpremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\playmoviesforpremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\playmoviesforpremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\playmoviesforpremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\playmovies.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\playmovies.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\playmovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\playmovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\netflix.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\netflix.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|D:\\My Works\\C#\\NETFLIX\\netflix\\welcomepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71508C17-E196-4204-8619-F8FFCD6E315E}|NETFLIX\\NETFLIX.csproj|solutionrelative:netflix\\welcomepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\LogIn.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\LogIn.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\LogIn.cs",
+              "RelativeToolTip": "NETFLIX\\LogIn.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAFUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:08:53.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PremiumUsersHome.cs",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PremiumUsersHome.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\PremiumUsersHome.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PremiumUsersHome.cs",
+              "RelativeToolTip": "NETFLIX\\PremiumUsersHome.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:40:40.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WelcomePage.cs [Design]",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\WelcomePage.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\WelcomePage.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\WelcomePage.cs [Design]",
+              "RelativeToolTip": "NETFLIX\\WelcomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:39:11.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\Form1.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\Form1.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\Form1.cs",
+              "RelativeToolTip": "NETFLIX\\Form1.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAE4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:06:49.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\Form1.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\Form1.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\Form1.cs [Design]",
+              "RelativeToolTip": "NETFLIX\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:46:28.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\Home.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\Home.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\Home.cs [Design]",
+              "RelativeToolTip": "NETFLIX\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:50:08.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin Panel.cs",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\Admin Panel.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\Admin Panel.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\Admin Panel.cs",
+              "RelativeToolTip": "NETFLIX\\Admin Panel.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:49:04.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WelcomePage.cs",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\WelcomePage.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\WelcomePage.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\WelcomePage.cs",
+              "RelativeToolTip": "NETFLIX\\WelcomePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:53:34.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WelcomePage.Designer.cs",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\WelcomePage.Designer.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\WelcomePage.Designer.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\WelcomePage.Designer.cs",
+              "RelativeToolTip": "NETFLIX\\WelcomePage.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:06:03.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PremiumHome.Designer.cs",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PremiumHome.Designer.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\PremiumHome.Designer.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PremiumHome.Designer.cs",
+              "RelativeToolTip": "NETFLIX\\PremiumHome.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:01:25.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PremiumHome.cs",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PremiumHome.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\PremiumHome.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PremiumHome.cs",
+              "RelativeToolTip": "NETFLIX\\PremiumHome.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAAA3wOwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:55:47.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\Form1.Designer.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\Form1.Designer.cs",
+              "RelativeToolTip": "NETFLIX\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T03:02:47.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LogIn.cs [Design]",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\LogIn.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\LogIn.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\LogIn.cs [Design]",
+              "RelativeToolTip": "NETFLIX\\LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:54:33.653Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PremiumHome.cs [Design]",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PremiumHome.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\PremiumHome.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PremiumHome.cs [Design]",
+              "RelativeToolTip": "NETFLIX\\PremiumHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:27:35.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogIn.Designer.cs",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\LogIn.Designer.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\LogIn.Designer.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\LogIn.Designer.cs",
+              "RelativeToolTip": "NETFLIX\\LogIn.Designer.cs",
+              "ViewState": "AQIAAPsAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T02:50:10.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PlayMovies.cs [Design]",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PlayMovies.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\PlayMovies.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PlayMovies.cs [Design]",
+              "RelativeToolTip": "NETFLIX\\PlayMovies.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:03:03.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlayMovies.Designer.cs",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PlayMovies.Designer.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\PlayMovies.Designer.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PlayMovies.Designer.cs",
+              "RelativeToolTip": "NETFLIX\\PlayMovies.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T03:00:17.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PlayMoviesForPremium.cs",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PlayMoviesForPremium.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\PlayMoviesForPremium.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PlayMoviesForPremium.cs",
+              "RelativeToolTip": "NETFLIX\\PlayMoviesForPremium.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA3wCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T02:59:24.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PlayMoviesForPremium.cs [Design]",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PlayMoviesForPremium.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\PlayMoviesForPremium.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PlayMoviesForPremium.cs [Design]",
+              "RelativeToolTip": "NETFLIX\\PlayMoviesForPremium.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T02:54:33.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PremiumUsersHome.cs [Design]",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PremiumUsersHome.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\PremiumUsersHome.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PremiumUsersHome.cs [Design]",
+              "RelativeToolTip": "NETFLIX\\PremiumUsersHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:37:08.41Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Admin Panel.Designer.cs",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\Admin Panel.Designer.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\Admin Panel.Designer.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\Admin Panel.Designer.cs",
+              "RelativeToolTip": "NETFLIX\\Admin Panel.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:49:03.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin Panel.cs [Design]",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\Admin Panel.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\Admin Panel.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\Admin Panel.cs [Design]",
+              "RelativeToolTip": "NETFLIX\\Admin Panel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:56:29.897Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NETFLIX",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\NETFLIX.csproj",
+              "RelativeDocumentMoniker": "NETFLIX\\NETFLIX.csproj",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\NETFLIX.csproj",
+              "RelativeToolTip": "NETFLIX\\NETFLIX.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-08T15:21:54.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PremiumSignUp.cs [Design]",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PremiumSignUp.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\PremiumSignUp.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PremiumSignUp.cs [Design]",
+              "RelativeToolTip": "NETFLIX\\PremiumSignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:00:49.373Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PremiumSignUp.Designer.cs",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PremiumSignUp.Designer.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\PremiumSignUp.Designer.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PremiumSignUp.Designer.cs",
+              "RelativeToolTip": "NETFLIX\\PremiumSignUp.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwC0BAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:38:58.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PremiumSignUp.cs",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PremiumSignUp.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\PremiumSignUp.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PremiumSignUp.cs",
+              "RelativeToolTip": "NETFLIX\\PremiumSignUp.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA3wEgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:35:29.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\Home.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\Home.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\Home.cs",
+              "RelativeToolTip": "NETFLIX\\Home.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:38:34.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\Home.Designer.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\Home.Designer.cs",
+              "RelativeToolTip": "NETFLIX\\Home.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T04:25:14.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlayMovies.cs",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PlayMovies.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\PlayMovies.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\PlayMovies.cs",
+              "RelativeToolTip": "NETFLIX\\PlayMovies.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:04:42.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\Program.cs",
+              "RelativeDocumentMoniker": "NETFLIX\\Program.cs",
+              "ToolTip": "D:\\My Works\\C#\\NETFLIX\\NETFLIX\\Program.cs",
+              "RelativeToolTip": "NETFLIX\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:25:42.047Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
